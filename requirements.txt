@@ -1,0 +1,6 @@
+scipy
+pandas
+quantecon
+numba
+requests
+sympy
